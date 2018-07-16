@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "stylelint-config-recommended"
+  ],
+  "rules": {
+    "at-rule-name-case": "lower",
+    "block-no-empty": null
+  }
+}
